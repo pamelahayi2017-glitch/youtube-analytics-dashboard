@@ -1,0 +1,9 @@
+Video_ID,Title,Channel,Views,Likes,Comments,Duration_min,Upload_Date
+v1,Python Tutorial,TechWorld,12000,800,120,12,2024-01-07
+v2,Data Science Intro,DataHub,25000,1500,300,15,2024-01-14
+v3,Machine Learning Basics,AI Lab,40000,3000,600,18,2024-01-21
+v4,Power BI Dashboard,Analytics Pro,18000,900,150,10,2024-01-28
+v5,AI Explained,AI Lab,60000,5000,900,20,2024-02-04
+v6,Web Scraping Guide,TechWorld,22000,1200,200,14,2024-02-11
+v7,Customer Churn Project,Analytics Pro,30000,2000,350,16,2024-02-18
+v8,Portfolio Tips,DataHub,15000,700,100,8,2024-02-25
